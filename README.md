@@ -62,8 +62,8 @@
 
 <li>
   
-<a href="mailto:ssg02138@naver.com" target="_blank">
-<img src="https://img.shields.io/badge/NAVER-brightgreen?style=for-the-badge&logo=naver&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="https://swift-honeydew-c38.notion.site/a7671aa842384625ad465179e9bb4e23" target="_blank">
+<img src="https://img.shields.io/badge/Notion-coral?style=for-the-badge&logo=notion&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
