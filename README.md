@@ -5,20 +5,42 @@
 <p align="center">
     
 - **Development**:
+	
+	<a href="#" target="_blank">
+		<img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" t=mail style="margin-bottom: 5px;" />
+	</a>
 
-   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+	<a href="#" target="_blank">
+		<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" t=mail style="margin-bottom: 5px;" />
+	</a>
+
+	<a href="#" target="_blank">
+		<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" t=mail style="margin-bottom: 5px;" />
+	</a>
+
+	<a href="#" target="_blank">
+		<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" t=mail style="margin-bottom: 5px;" />
+	</a>
 
 <br>
 
 - **Softwares and Tools**:
+	
+	<a href="#" target="_blank">
+		<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" t=mail style="margin-bottom: 5px;" />
+	</a>
 
-   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-   ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+	<a href="#" target="_blank">
+		<img src="https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" t=mail style="margin-bottom: 5px;" />
+	</a>
+
+	<a href="#" target="_blank">
+		<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" t=mail style="margin-bottom: 5px;" />
+	</a>
+
+	<a href="#" target="_blank">
+		<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" t=mail style="margin-bottom: 5px;" />
+	</a>
 
 <br>  
 
