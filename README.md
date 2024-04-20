@@ -57,7 +57,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/%EB%B2%94%EC%84%9D-%EA%B9%80-97a60b223" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px; width: 100px;"/>
 </a>
 </li>
 
@@ -66,7 +66,16 @@
 <li>
   
 <a href="https://swift-honeydew-c38.notion.site/a7671aa842384625ad465179e9bb4e23" target="_blank">
-<img src="https://img.shields.io/badge/Notion-coral?style=for-the-badge&logo=notion&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" t=mail style="margin-bottom: 5px; width: 100px;" />
+</a>
+</li>
+
+<br>
+
+<li>
+  
+<a href="https://newdevsimple.tistory.com/" target="_blank">
+<img src="https://img.shields.io/badge/Tistory-coral?style=for-the-badge&logo=tistory&logoColor=white" t=mail style="margin-bottom: 5px; width: 100px;" />
 </a>
 </li>
 	
